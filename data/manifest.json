@@ -1,0 +1,17 @@
+[
+  {
+    "file": "S1_E1_A1.mat",
+    "bytes": 151484686,
+    "sha256": "90279d7c3dea96b2ed44c8e94759559015743e16bd8c1aa8d2c3ed8fb1553dc5"
+  },
+  {
+    "file": "S1_E2_A1.mat",
+    "bytes": 244409932,
+    "sha256": "c02ee3d88b58d6079abb7f84e791f151540acfec64b447a3cdad6589d53cac02"
+  },
+  {
+    "file": "S1_E3_A1.mat",
+    "bytes": 75605597,
+    "sha256": "61f73f59c0eddf519139936d524944fc5a00d4dba1ed06ff273800b46925ad6c"
+  }
+]
