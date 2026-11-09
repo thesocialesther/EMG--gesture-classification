@@ -33,6 +33,6 @@ See [DATASETS.md](DATASETS.md) for the recording manifest and setup details. Raw
 
 ## Results and current scope
 
-The repository contains the analysis and training source, but saved classifiers, validation results, and final confusion-matrix figures still need to be added. Numerical accuracy claims should be tied to those saved results and their repetition split.
+**Recovered local evaluation results:** the selected offline classifier has 79.34% overall accuracy, 70.79% balanced accuracy, and 69.35% movement accuracy, according to the saved MATLAB evaluation artifact. The RMS-only baseline records 71.57% overall accuracy and 50.99% balanced accuracy. See [RESULTS.md](RESULTS.md) for provenance, validation details and limitations. These are recovered saved results, not independently rerun experiments. Trained classifiers and confusion-matrix figures have not yet been published to this repository.
 
 Replay demonstrates inference on an existing recording. Live acquisition, prosthesis firmware, and physical control evaluation would be separate additions.
